@@ -8,3 +8,5 @@ Just execute this-
 
 # Notice
 This is only for all versions of android......
+
+## This project is now discontinued!!
